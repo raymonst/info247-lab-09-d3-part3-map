@@ -11,7 +11,7 @@
 In this lab, you are building a simple chloropleth map using D3. Take a look at screen.png to see what the final result may look like.
 
 ###More practice with D3
-0. The geojson file is already set up. However, if you'd like to go through the process of converting to geojson, you can download the original shape file from the Census website (http://www.census.gov/geo/maps-data/data/tiger-line.html). Then, use programs such as QGIS (http://www.qgis.org/en/site/) to convert the shape file to geojson. Right click on the layer, select "save as" and choose "geoJSON" as the output.
+0. The geojson file is already set up. However, if you'd like to go through the process of converting to geojson, you can download the original shape file from the Census website (http://www.census.gov/geo/maps-data/data/tiger-line.html). Then, use programs such as QGIS (http://www.qgis.org/en/site/) to convert the shape file to geojson. Open the shape file in QGIS, right click on the layer, select "save as" and choose "geoJSON" as the output.
 1. To draw a basic map, follow the tutorial here: http://chimera.labs.oreilly.com/books/1230000000345/ch12.html
 2. You have three basic tasks:
   * Draw the chloropleth map:
