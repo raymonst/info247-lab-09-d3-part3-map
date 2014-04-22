@@ -8,7 +8,7 @@
 3. Open "script.js" in your text editor.
 
 ###Goals
-In this lab, you are building a simple chloropleth map using D3.
+In this lab, you are building a simple chloropleth map using D3. Take a look at screen.png for what the final result may look like.
 
 ###More practice with D3
 0. The geojson file is already set up. However, if you'd like to go through the process of converting to geojson, you can download the shape file from the Census website (http://www.census.gov/geo/maps-data/data/tiger-line.html). Then, use programs such as QGIS (http://www.qgis.org/en/site/) to convert the shape file to geojson.
